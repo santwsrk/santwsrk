@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Sant Wongsirikul
 
-<!--
-**santwsrk/santwsrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Bachelor's student studying Software Engineering and Management (SEM) at **TU Graz**. I am highly interested in the intersection of software development, artificial intelligence, and keeping systems secure. 
 
-Here are some ideas to get you started:
+### 🚀 What I'm focusing on
+* 🎓 Currently studying: Software Engineering and Management
+* 🧠 Deep diving into: **Computer Vision, Artificial Intelligence, and Information Security**
+* 💻 Always looking to build efficient, secure, and intelligent systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+* **Core Languages:** C, C++, Python
+* **AI & Data Science:** NumPy, Pandas, Django
+* **Databases:** PostgreSQL
+* **Tools & Environments:** Git, Linux, Docker, Jupyter Notebooks
+
+### 📫 Let's Connect
+* **LinkedIn:** [Sant Wongsirikul](https://www.linkedin.com/in/YOUR-LINKEDIN-URL-HERE)
+* **Email:** santwongsirikul@gmail.com
+* **Instagram:** [@santwongsirikul](https://instagram.com/santwongsirikul)
