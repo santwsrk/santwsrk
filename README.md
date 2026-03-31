@@ -8,10 +8,10 @@ I am a Bachelor's student studying Software Engineering and Management (SEM) at 
 * - Always looking to build efficient, secure, and intelligent systems.
 
 ### Tech Stack & Tools
-* **Core Languages:** C, C++, Python
+* **Core Languages:** C, C++, Python, SQL
 * **AI & Data Science:** NumPy, Pandas, Django
 * **Databases:** PostgreSQL
-* **Tools & Environments:** Git, Linux, Docker, Jupyter Notebooks
+* **Tools & Environments:** Git, Gitlab/Github, Linux, GDB/Valgrind, Docker, Jupyter Notebooks
 
 ### Let's Connect
 * **LinkedIn:** [Sant Wongsirikul](https://www.linkedin.com/in/YOUR-LINKEDIN-URL-HERE)
