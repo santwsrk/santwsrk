@@ -9,7 +9,7 @@ I am a Bachelor's student studying Software Engineering and Management (SEM) at 
  
 ### Featured Projects
 
-* ** * **[🤖 AI Telegram Assistant & Scheduler](https://github.com/santwsrk/ai-telegram-assistant)** | *Python, Gemini API, Threading*
+* **[AI Telegram Assistant & Scheduler](https://github.com/santwsrk/ai-telegram-assistant)** | *Python, Gemini API, Threading*
   Developed an AI-driven conversational bot featuring a natural language task scheduler. Engineered cross-timezone datetime logic and asynchronous Python threading for reliable, recurring notifications,
    alongside secure API credential management.
 * ** Custom Memory Allocator** | *C, Linux, System-Level Programming*
