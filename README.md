@@ -14,7 +14,7 @@ I am a Bachelor's student studying Software Engineering and Management (SEM) at 
    alongside secure API credential management.
 * **Custom Memory Allocator** | *C, Linux, System-Level Programming*
   Engineered a custom implementation of `malloc`, `calloc`, `realloc`, and `free`. Focused on memory management efficiency, block splitting, and minimizing fragmentation.
-* **CareerMatch Prototype & Specs** | *Product Management, System Design*
+* **[CareerMatch Prototype](https://github.com/santwsrk/project-managemet-careerMatch)** | *Product Management, System Design*
   Created a comprehensive prototype and business plan for a career-matching application. Authored the full specification book, bridging the gap between technical architecture and business requirements.
 
 ### Tech Stack & Tools
